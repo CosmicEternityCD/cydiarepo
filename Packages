@@ -19,7 +19,7 @@ Maintainer: Rhapsody2612 <projectmegadrive@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.rhapsody.ios6apps_1.0_iphoneos-arm.deb
-Size: 854
+Size: 86.2
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: iOS 6 Stock Apps for iOS 7 (iPhone 5/5C and iPod Touch 5)
