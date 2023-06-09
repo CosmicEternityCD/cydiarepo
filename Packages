@@ -1,5 +1,5 @@
 PPackage: com.cosmiceternitycd.ios6_4inch
-Version: 0.0.1
+Version: 1.0
 Section: Tweaks
 Maintainer: Rhapsody2612 <projectmegadrive@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
